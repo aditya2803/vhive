@@ -8,7 +8,8 @@ To see how to setup a single node cluster with stock-only or gVisor, see [Develo
 1. [Host platform requirements](#I-host-platform-requirements)
     1. [Hardware](#1-hardware)
     2. [Software](#2-software)
-    3. [CloudLab Deployment Notes](#3-cloudlab-deployment-notes)
+    3. Pre-requisites
+    4. [CloudLab Deployment Notes](#3-cloudlab-deployment-notes)
         1. [CloudLab Profile](#a-cloudlab-profile)
         2. [Nodes to Rent](#b-nodes-to-rent)
 2. [Setup a Serverless (Knative) Cluster](#ii-setup-a-serverless-knative-cluster)
